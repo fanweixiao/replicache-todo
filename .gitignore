@@ -13,3 +13,4 @@
 **/supabase/.temp
 .env
 out/
+app
